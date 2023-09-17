@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "486958765338",
+    "project_id": "getchatin-facfb",
+    "storage_bucket": "getchatin-facfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486958765338:android:c8eda81389b461ecdc88a3",
+        "android_client_info": {
+          "package_name": "com.example.get_chain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSLyxEGmlZ8x2PMOR7Rs4FTjEWl69hQDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
